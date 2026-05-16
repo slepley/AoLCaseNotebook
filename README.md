@@ -7,7 +7,7 @@ Exploratory analysis of ABCmouse user engagement data across three questions:
 3. How would I set up an A/B test to assess whether Mastery Math on Day0 contributes to Day1 retention?
 
 ## Tools
-Python, DuckDB, Pandas, Plotly, Scipy, Sklearn, and some help from Claude
+Python, SQL, DuckDB, Pandas, Plotly, Scipy, Sklearn, and some help from Claude
 
 ## Note
 Data file not included for confidentiality reasons.
